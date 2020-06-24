@@ -1,0 +1,353 @@
+Timestamp,user,movie,rating
+2017/08/19 10:01:57 PM GMT+5:30,Gopala Krishna,Harry Potter and the Deathly Hallows: Part 2,5
+2017/08/19 10:03:44 PM GMT+5:30,Gopala Krishna,Inception,5
+2017/08/19 10:03:50 PM GMT+5:30,Rameet Kaur,La La Land,4
+2017/08/19 10:04:19 PM GMT+5:30,Rameet Kaur,Baahubali: The Beginning,5
+2017/08/19 10:04:43 PM GMT+5:30,Gopala Krishna,X-Men: Days of Future Past,4
+2017/08/19 10:04:59 PM GMT+5:30,Rameet Kaur,Dunkirk,3
+2017/08/19 10:06:13 PM GMT+5:30,Rameet Kaur,Udta Punjab,5
+2017/08/19 10:06:15 PM GMT+5:30,Gopala Krishna,Moneyball,5
+2017/08/19 10:06:29 PM GMT+5:30,Hemant,Dangal,4
+2017/08/19 10:06:53 PM GMT+5:30,Rameet Kaur,Dear Zindagi,2
+2017/08/19 10:07:03 PM GMT+5:30,Bhargav Nishanth,Dunkirk,4
+2017/08/19 10:07:36 PM GMT+5:30,Hemant Garg,Jab Harry met Sejal,3
+2017/08/19 10:09:19 PM GMT+5:30,Bhargav Nishanth,Interstellar,4
+2017/08/19 10:10:59 PM GMT+5:30,Hemant Garg,Hindi Medium,4
+2017/08/19 10:11:49 PM GMT+5:30,Gopala Krishna,The Terminal,5
+2017/08/19 10:14:39 PM GMT+5:30,Bhargav Nishanth,Deadpool,4
+2017/08/19 10:15:47 PM GMT+5:30,Bhargav Nishanth,Dangal,4
+2017/08/19 10:16:01 PM GMT+5:30,Gopala Krishna,Despicable Me,5
+2017/08/19 10:16:01 PM GMT+5:30,Sudheer,Dunkirk,4
+2017/08/19 10:16:48 PM GMT+5:30,Bhargav Nishanth,Baahubali 2: The Conclusion,5
+2017/08/19 10:17:03 PM GMT+5:30,Sudheer,Baahubali 2: The Conclusion,4
+2017/08/19 10:21:36 PM GMT+5:30,Saket,Dangal,5
+2017/08/19 10:22:36 PM GMT+5:30,Saket,Kapoor & Sons,3
+2017/08/19 10:22:50 PM GMT+5:30,Sudheer,Pellichoopulu,5
+2017/08/19 10:23:20 PM GMT+5:30,Sudheer,Dunkirk,4
+2017/08/19 10:23:54 PM GMT+5:30,Saket,Jab Harry Met Sejal,3
+2017/08/19 10:24:31 PM GMT+5:30,Sudheer,Beauty and the Beast,3
+2017/08/19 10:25:21 PM GMT+5:30,Saket,Hindi Medium,4
+2017/08/19 10:25:23 PM GMT+5:30,Sudheer,Badrinath Ki Dulhania,4
+2017/08/19 10:25:25 PM GMT+5:30,Madhu,Interstellar,5
+2017/08/19 10:25:29 PM GMT+5:30,Karthik,American Sniper,4
+2017/08/19 10:25:34 PM GMT+5:30,Ankana,Baahubali 2: The Conclusion,5
+2017/08/19 10:26:26 PM GMT+5:30,Ankana,Moana,3
+2017/08/19 10:26:48 PM GMT+5:30,Ankana,Rogue One,4
+2017/08/19 10:26:55 PM GMT+5:30,Karthik,Guardians of the Galaxy,5
+2017/08/19 10:27:08 PM GMT+5:30,Sudheer,Sultan,3
+2017/08/19 10:27:10 PM GMT+5:30,Ankana,Collateral Beauty,5
+2017/08/19 10:27:23 PM GMT+5:30,Karthik,Interstellar,5
+2017/08/19 10:27:29 PM GMT+5:30,Ankana,Passengers,3
+2017/08/19 10:27:49 PM GMT+5:30,Ankana,Doctor Strange,4
+2017/08/19 10:27:56 PM GMT+5:30,Madhu,Tansformers: Age of Extinction,4
+2017/08/19 10:27:57 PM GMT+5:30,Sudheer,Pink,5
+2017/08/19 10:28:06 PM GMT+5:30,Karthik,Doctor Strange,5
+2017/08/19 10:28:17 PM GMT+5:30,Ankana,Fantastic Beasts and Where to Find Them,3
+2017/08/19 10:28:57 PM GMT+5:30,Venkata Ranga Malleswara Gupta Tadepalli,Baahubali 2: The Conclusion,5
+2017/08/19 10:30:21 PM GMT+5:30,Venakata ranga malleswara gupta tadepalli,Tubelight,2
+2017/08/19 10:30:40 PM GMT+5:30,srujana,Doctor Strange,5
+2017/08/19 10:30:55 PM GMT+5:30,Venakata ranga malleswara gupta tadepalli,Ekkadiki Pothavu Chinnavada,3
+2017/08/19 10:31:10 PM GMT+5:30,srujana,Interstellar,5
+2017/08/19 10:31:38 PM GMT+5:30,Madhu,The Dark Knight Rises,4
+2017/08/19 10:32:16 PM GMT+5:30,Madhu,The Avengers,4
+2017/08/19 10:32:55 PM GMT+5:30,Madhu,Avengers: Age of Ultron,4
+2017/08/19 10:33:32 PM GMT+5:30,Madhu,Iron Man 3,4
+2017/08/19 10:39:43 PM GMT+5:30,Saratkumar,Spider-Man: Homecoming,3
+2017/08/19 10:43:36 PM GMT+5:30,Saratkumar,Captain America: Civil War,4
+2017/08/19 10:44:07 PM GMT+5:30,Saratkumar,The Jungle Book,3
+2017/08/19 10:44:37 PM GMT+5:30,Saratkumar,Deadpool,3
+2017/08/19 10:45:09 PM GMT+5:30,Saratkumar,Doctor Strange,3
+2017/08/19 10:45:09 PM GMT+5:30,Jyoti,Pulp Fiction,5
+2017/08/19 10:46:11 PM GMT+5:30,Jyoti,The Jungle Book,5
+2017/08/19 10:46:29 PM GMT+5:30,Saratkumar,The Martian,3
+2017/08/19 10:46:57 PM GMT+5:30,Jyoti,The Beach,5
+2017/08/19 10:47:00 PM GMT+5:30,Saratkumar,Mad Max: Fury Road,4
+2017/08/19 10:47:32 PM GMT+5:30,Saratkumar,Mission: Impossible - Rogue Nation,4
+2017/08/19 10:47:54 PM GMT+5:30,Jyoti,Lucy,3
+2017/08/19 10:48:34 PM GMT+5:30,Jyoti,Her,4
+2017/08/19 10:48:49 PM GMT+5:30,Saratkumar,Edge of Tomorrow,3
+2017/08/19 10:48:58 PM GMT+5:30,Sai Vijay Kiran Kurada,Baahubali 2: The Conclusion,5
+2017/08/19 10:49:41 PM GMT+5:30,Saratkumar,The Imitation Game,3
+2017/08/19 10:49:52 PM GMT+5:30,Sai Vijay Kiran Kurada,Fidaa,5
+2017/08/19 10:50:08 PM GMT+5:30,Saratkumar,Interstellar,5
+2017/08/19 10:50:47 PM GMT+5:30,Sai Vijay Kiran Kurada,Interstellar,5
+2017/08/19 10:51:42 PM GMT+5:30,Sai Vijay Kiran Kurada,Janatha Garage,4
+2017/08/19 10:51:43 PM GMT+5:30,Saratkumar,Gravity,5
+2017/08/19 10:52:26 PM GMT+5:30,Sai Vijay Kiran Kurada,Ninnu Kori,3
+2017/08/19 10:52:32 PM GMT+5:30,Saratkumar,Man of Steel,2
+2017/08/19 10:53:10 PM GMT+5:30,Sai Vijay Kiran Kurada,Shamantakamani,3
+2017/08/19 10:53:16 PM GMT+5:30,Saratkumar,World War Z,1
+2017/08/19 10:54:15 PM GMT+5:30,Saratkumar,The Conjuring 2,3
+2017/08/19 10:54:30 PM GMT+5:30,Sai Vijay Kiran Kurada,Inside Out,5
+2017/08/19 10:55:11 PM GMT+5:30,Sai Vijay Kiran Kurada,PK,4
+2017/08/19 10:58:11 PM GMT+5:30,Neha,Sully: Miracle on the Hudson,5
+2017/08/19 11:22:07 PM GMT+5:30,Swapna,Fidaa,5
+2017/08/19 11:22:56 PM GMT+5:30,Swapna,Ninnu Kori,3
+2017/08/19 11:23:55 PM GMT+5:30,Swapna,The Ghazi Attack,4
+2017/08/19 11:25:03 PM GMT+5:30,Swapna,Bhaag Milka Bhaag,5
+2017/08/19 11:28:07 PM GMT+5:30,Swapna,M.S.Dhoni: The Untold Story,4
+2017/08/19 11:55:01 PM GMT+5:30,Nabhgesh,Baahubali 2: The Conclusion,5
+2017/08/19 3:18:09 PM GMT+5:30,Rajib,Poorna,5
+2017/08/19 7:11:57 PM GMT+5:30,Dhruv,Pursuit of Happyness,4
+2017/08/19 7:12:41 PM GMT+5:30,Dhruv,Beautiful Minds,4
+2017/08/19 7:13:28 PM GMT+5:30,Nandini,Dangal,5
+2017/08/19 7:20:56 PM GMT+5:30,Srujana,Interstellar,5
+2017/08/19 7:27:32 PM GMT+5:30,Manoj Paliwal,Mom,5
+2017/08/19 7:28:28 PM GMT+5:30,Manoj Paliwal,Alien: Covenant,3
+2017/08/19 7:29:12 PM GMT+5:30,Manoj Paliwal,xXx: Return of Xander Cage,4
+2017/08/19 7:29:50 PM GMT+5:30,Nishant,Jab Harry met Sejal,3
+2017/08/19 7:29:55 PM GMT+5:30,Amol,Baahubali 2: The Conclusion,5
+2017/08/19 7:29:56 PM GMT+5:30,Manoj Paliwal,Hindi Medium,5
+2017/08/19 7:30:28 PM GMT+5:30,Nishant,Dangal,4
+2017/08/19 7:30:33 PM GMT+5:30,Amol,Kabali,4
+2017/08/19 7:31:00 PM GMT+5:30,Nishant,Jagga Jasoos,3
+2017/08/19 7:31:27 PM GMT+5:30,Amol,Baby,5
+2017/08/19 7:31:43 PM GMT+5:30,Amol,Dangal,4
+2017/08/19 7:32:11 PM GMT+5:30,Nishant,Tubelight,2
+2017/08/19 7:32:19 PM GMT+5:30,Amol,Phantom,5
+2017/08/19 7:32:48 PM GMT+5:30,Nishant,Raabta,1
+2017/08/19 7:33:18 PM GMT+5:30,Nishant,Hindi medium,4
+2017/08/19 7:33:18 PM GMT+5:30,Amol,Prem Ratan Dhan Payo,1
+2017/08/19 7:34:07 PM GMT+5:30,Nishant,Raees,3
+2017/08/19 7:36:21 PM GMT+5:30,Manoj Paliwal,Jolly LLB 2,5
+2017/08/19 7:56:10 PM GMT+5:30,Saurabh,Dangal,5
+2017/08/19 7:56:40 PM GMT+5:30,Saurabh,Hindi Medium,5
+2017/08/19 7:57:16 PM GMT+5:30,Saurabh,Mom,3
+2017/08/19 7:58:29 PM GMT+5:30,Saurabh,Kaabil,3
+2017/08/19 7:59:30 PM GMT+5:30,Saurabh,Tubelight,2
+2017/08/19 8:22:31 PM GMT+5:30,Saurabh,Behen Hogi Teri,2
+2017/08/19 8:27:09 PM GMT+5:30,Subhankar,The Dark Knight,5
+2017/08/19 8:37:20 PM GMT+5:30,Srikanth GUNDADI ,The Mentalist,5
+2017/08/19 8:39:51 PM GMT+5:30,Srinivasa,Dangal,5
+2017/08/19 8:49:00 PM GMT+5:30,Nishant,Desh drohi,5
+2017/08/19 8:49:44 PM GMT+5:30,Nishant,Vedalam,5
+2017/08/19 8:52:01 PM GMT+5:30,Surendra,Bhaag Milkha Bhaag,5
+2017/08/19 8:54:02 PM GMT+5:30,Nishant,Ninne Pelladatha,5
+2017/08/19 8:54:14 PM GMT+5:30,Surendra,A Beautiful Mind,5
+2017/08/19 8:54:39 PM GMT+5:30,Nishant,Dunkirk,5
+2017/08/19 8:54:39 PM GMT+5:30,Surendra,The Terminal,5
+2017/08/19 8:56:45 PM GMT+5:30,Surendra,Taare Zameen Par,5
+2017/08/19 8:58:58 PM GMT+5:30,Surendra,Tanu Weds Manu Returns ,4
+2017/08/19 8:59:23 PM GMT+5:30,Surendra,M.S. Dhoni: The Untold Story ,4
+2017/08/19 9:00:10 PM GMT+5:30,Surendra,The Ghazi Attack,4
+2017/08/19 9:01:45 PM GMT+5:30,Surendra,Kaabil,4
+2017/08/19 9:03:01 PM GMT+5:30,Surendra,Dangal,5
+2017/08/19 9:03:31 PM GMT+5:30,Surendra,Udta Punjab,5
+2017/08/19 9:04:29 PM GMT+5:30,Surendra,Neerja,4
+2017/08/19 9:05:08 PM GMT+5:30,Surendra,Fan,1
+2017/08/19 9:05:48 PM GMT+5:30,Surendra,Mohenjo Daro,3
+2017/08/19 9:06:44 PM GMT+5:30,Surendra,Rock On 2,4
+2017/08/19 9:13:24 PM GMT+5:30,Ravi Mohan,Baahubali 2: The Conclusion,5
+2017/08/19 9:14:19 PM GMT+5:30,Ravi Mohan,Jolly LLB 2,4
+2017/08/19 9:14:42 PM GMT+5:30,Anupam Anand,Game of Thrones (2011– ),5
+2017/08/19 9:15:07 PM GMT+5:30,Anupam Anand,Dunkirk,4
+2017/08/19 9:16:48 PM GMT+5:30,Ravi,Beauty and the Beast,3
+2017/08/19 9:17:22 PM GMT+5:30,Ravi,Dangal,5
+2017/08/19 9:18:28 PM GMT+5:30,Ravi,Transformers: The Last Knight,3
+2017/08/19 9:19:01 PM GMT+5:30,Prajwal ,Avengers: Age of Ultron,4
+2017/08/19 9:20:28 PM GMT+5:30,Ravi,Wonder Woman,3
+2017/08/19 9:23:04 PM GMT+5:30,Girija,Dangal,5
+2017/08/19 9:23:33 PM GMT+5:30,Girija,Hindi Medium,5
+2017/08/19 9:25:27 PM GMT+5:30,Gopala Krishna,Baahubali 2: The Conclusion,3
+2017/08/19 9:27:07 PM GMT+5:30,Ashis,The Shawshank Redemption,5
+2017/08/19 9:32:04 PM GMT+5:30,Parul Sangwan,Pulp fiction,5
+2017/08/19 9:33:32 PM GMT+5:30,Parul Sangwan,The Dark Knight ,5
+2017/08/19 9:35:12 PM GMT+5:30,Parul Sangwan,The Pursuit of Happyness,5
+2017/08/19 9:38:51 PM GMT+5:30,Parul Sangwan,The Social Network,4
+2017/08/19 9:39:09 PM GMT+5:30,Isha Mahajan,La La Land,5
+2017/08/19 9:43:05 PM GMT+5:30,Vijayakumar,Baby,4
+2017/08/19 9:43:25 PM GMT+5:30,Vijayakumar,Neerja,4
+2017/08/19 9:44:21 PM GMT+5:30,Vijayakumar,Singham Returns,4
+2017/08/19 9:44:28 PM GMT+5:30,vidyacharan kapalli,The Accountant,4
+2017/08/19 9:45:21 PM GMT+5:30,Vijayakumar,Bhaag Milkha Bhaag,4
+2017/08/19 9:46:02 PM GMT+5:30,Vijayakumar,Sivaji,4
+2017/08/19 9:46:39 PM GMT+5:30,vidyacharan kapalli,Dangal,5
+2017/08/19 9:47:11 PM GMT+5:30,Gopala Krishna,Guardians of the Galaxy Vol. 2 ,4
+2017/08/19 9:48:03 PM GMT+5:30,vidyacharan kapalli,The Ghazi Attack,3
+2017/08/19 9:48:49 PM GMT+5:30,Gopala Krishna,WALL·E,5
+2017/08/19 9:49:34 PM GMT+5:30,Gopala Krishna,Up,4
+2017/08/19 9:50:04 PM GMT+5:30,vidyacharan kapalli,Dunkirk,5
+2017/08/19 9:50:20 PM GMT+5:30,Gopala Krishna,Ice Age: Dawn of the Dinosaurs,5
+2017/08/19 9:50:58 PM GMT+5:30,Gopala Krishna,Megamind,5
+2017/08/19 9:52:07 PM GMT+5:30,Gopala Krishna,The Lord of the Rings: The Fellowship of the Ring,4
+2017/08/19 9:54:36 PM GMT+5:30,Gopala Krishna,Predestination,5
+2017/08/19 9:55:05 PM GMT+5:30,Bishan,Baahubali 2: The Conclusion,4
+2017/08/19 9:55:11 PM GMT+5:30,Gopala Krishna,Interstellar,5
+2017/08/19 9:56:05 PM GMT+5:30,Bishan,Dangal,5
+2017/08/19 9:57:31 PM GMT+5:30,Gopala Krishna,Inside Out,4
+2017/08/19 9:59:40 PM GMT+5:30,Gopala Krishna,The Imitation Game,5
+2017/08/20 1:26:30 AM GMT+5:30,bhawna anand,eat pray love,5
+2017/08/20 1:26:58 AM GMT+5:30,bhawna anand,boyhood,4
+2017/08/20 1:33:57 AM GMT+5:30,bhawna anand,bhaag milkha bhaag,5
+2017/08/20 10:04:00 AM GMT+5:30,Ravi Kishore M,Munich,5
+2017/08/20 10:23:08 AM GMT+5:30,Sunil,Inception,5
+2017/08/20 10:23:39 AM GMT+5:30,Ravinderpal Wasu,3 Idiots,5
+2017/08/20 10:23:46 AM GMT+5:30,Sunil,Interstellar,5
+2017/08/20 10:24:19 AM GMT+5:30,Sunil,Jagga Jasoos,2
+2017/08/20 10:25:12 AM GMT+5:30,Ravinderpal Wasu,bhaag milkha bhaag,5
+2017/08/20 10:25:13 AM GMT+5:30,Sunil,Baahubali 2: The Conclusion,5
+2017/08/20 10:26:06 AM GMT+5:30,Ravinderpal Wasu,evil dead,2
+2017/08/20 10:26:31 AM GMT+5:30,Sunil,Dangal,5
+2017/08/20 10:26:44 AM GMT+5:30,Isha Mahajan,Lion,5
+2017/08/20 10:26:55 AM GMT+5:30,Sunil,Banjo,4
+2017/08/20 10:27:10 AM GMT+5:30,Isha Mahajan,Raman Raghav,1
+2017/08/20 10:27:32 AM GMT+5:30,Sunil,Wazir,4
+2017/08/20 10:27:52 AM GMT+5:30,Isha Mahajan,Court,5
+2017/08/20 10:28:37 AM GMT+5:30,Sunil,Kyaa Kool Hain Hum 3,2
+2017/08/20 10:28:37 AM GMT+5:30,Isha Mahajan,Masaan,5
+2017/08/20 10:29:01 AM GMT+5:30,Sunil,Tere Bin Laden: Dead or Alive,3
+2017/08/20 10:29:24 AM GMT+5:30,Sunil,Sultan,4
+2017/08/20 10:30:05 AM GMT+5:30,Sunil,A Flying Jatt,1
+2017/08/20 10:32:41 AM GMT+5:30,Ravinderpal Wasu,Naam Shabana,4
+2017/08/20 10:34:47 AM GMT+5:30,Raghava,Manmadhudu,4
+2017/08/20 10:34:56 AM GMT+5:30,Ravinderpal Wasu,taare zameem par,5
+2017/08/20 10:36:17 AM GMT+5:30,Raghava,The Ghazi Attack,4
+2017/08/20 10:36:22 AM GMT+5:30,Ravinderpal Wasu,Dulhan Hum Le Jayenge,1
+2017/08/20 10:38:01 AM GMT+5:30,Raghava,Dangal,5
+2017/08/20 10:38:38 AM GMT+5:30,Raghava,Fidaa,4
+2017/08/20 10:39:39 AM GMT+5:30,Raghava,The Wolf of Wall Street,5
+2017/08/20 10:42:35 AM GMT+5:30,Isha Mahajan,Lipstick Under My Burkha,5
+2017/08/20 10:43:35 AM GMT+5:30,Ravinderpal Wasu,avatar,3
+2017/08/20 10:44:26 AM GMT+5:30,Ravinderpal Wasu,shalimar,4
+2017/08/20 10:46:05 AM GMT+5:30,Ravinderpal Wasu,beautiful people,3
+2017/08/20 10:47:36 AM GMT+5:30,Ravinderpal Wasu,Lipstick Under My Burkha,1
+2017/08/20 10:50:28 AM GMT+5:30,Ravinderpal Wasu,baby,3
+2017/08/20 10:51:21 AM GMT+5:30,Ravinderpal Wasu,Bajrangi Bhaijaan,4
+2017/08/20 11:02:22 AM GMT+5:30,Ranjan,Face/off,5
+2017/08/20 11:02:39 AM GMT+5:30,Ranjan,Airlift,5
+2017/08/20 11:02:52 AM GMT+5:30,Ravinderpal Wasu,Salaam Namaste,3
+2017/08/20 11:03:43 AM GMT+5:30,Ranjan,Baahubali 2: The Conclusion,5
+2017/08/20 11:04:11 AM GMT+5:30,Ravinderpal Wasu,Saamri,1
+2017/08/20 11:04:26 AM GMT+5:30,Ranjan,M.S. Dhoni: The Untold Story,4
+2017/08/20 11:05:04 AM GMT+5:30,Ranjan,Jagga Jasoos,4
+2017/08/20 11:05:40 AM GMT+5:30,Ranjan,Ae Dil Hai Mushkil,5
+2017/08/20 11:08:33 AM GMT+5:30,Ravinderpal Wasu,Toilet - Ek Prem Katha,1
+2017/08/20 11:09:47 AM GMT+5:30,Ravinderpal Wasu,Jab Harry met Sejal,2
+2017/08/20 11:11:06 AM GMT+5:30,Ravinderpal Wasu,Dangal,5
+2017/08/20 11:11:56 AM GMT+5:30,Karuna,Interstellar,4
+2017/08/20 11:12:41 AM GMT+5:30,Karuna,Despicable Me,4
+2017/08/20 11:12:54 AM GMT+5:30,Ravinderpal Wasu,delhi belly,3
+2017/08/20 11:13:32 AM GMT+5:30,Ravinderpal Wasu,fukrey,2
+2017/08/20 11:14:41 AM GMT+5:30,Ravinderpal Wasu,mahabharat,3
+2017/08/20 11:15:28 AM GMT+5:30,Ravinderpal Wasu,Nagin,2
+2017/08/20 11:15:49 AM GMT+5:30,Ravinderpal Wasu,nagina,2
+2017/08/20 11:16:39 AM GMT+5:30,Ravinderpal Wasu,rang de basanti,5
+2017/08/20 11:17:17 AM GMT+5:30,Ravinderpal Wasu,Rang Birangi,2
+2017/08/20 11:17:53 AM GMT+5:30,Ravinderpal Wasu,gol maal,4
+2017/08/20 11:18:24 AM GMT+5:30,Ravinderpal Wasu,golmaal returns,3
+2017/08/20 11:19:02 AM GMT+5:30,Ravinderpal Wasu,golmaal 3,3
+2017/08/20 11:19:30 AM GMT+5:30,Ravinderpal Wasu,Golmaal Again,2
+2017/08/20 11:20:39 AM GMT+5:30,Ravinderpal Wasu,desh ke dushman,2
+2017/08/20 11:21:32 AM GMT+5:30,Ravinderpal Wasu,desh ke naam,2
+2017/08/20 11:22:09 AM GMT+5:30,Ravinderpal Wasu,naram garam,4
+2017/08/20 11:22:40 AM GMT+5:30,Ravinderpal Wasu,naseeb,2
+2017/08/20 11:23:10 AM GMT+5:30,Ravinderpal Wasu,don,2
+2017/08/20 11:24:25 AM GMT+5:30,Ravinderpal Wasu,bombay to goa,3
+2017/08/20 11:24:51 AM GMT+5:30,Ravinderpal Wasu,bombay town,2
+2017/08/20 11:25:26 AM GMT+5:30,Ravinderpal Wasu,bombay to bangkok,1
+2017/08/20 11:26:05 AM GMT+5:30,Ravinderpal Wasu,the karate kid,4
+2017/08/20 11:28:46 AM GMT+5:30,Ravinderpal Wasu,Butch Cassidy and the Sundance Kid,1
+2017/08/20 11:31:15 AM GMT+5:30,Ravinderpal Wasu,the great escape,4
+2017/08/20 11:34:49 AM GMT+5:30,Ravinderpal Wasu,No escape,2
+2017/08/20 11:36:19 AM GMT+5:30,Ravinderpal Wasu,escape plan,5
+2017/08/20 11:37:13 AM GMT+5:30,Ravinderpal Wasu,Fantastic Voyage,4
+2017/08/20 11:45:21 AM GMT+5:30,Ravinderpal Wasu,"20,000 Leagues Under the Sea",4
+2017/08/20 11:46:09 AM GMT+5:30,Ravinderpal Wasu,yarana,1
+2017/08/20 11:49:30 AM GMT+5:30,Ravinderpal Wasu,karz,2
+2017/08/20 11:50:03 AM GMT+5:30,Ravinderpal Wasu,naam,2
+2017/08/20 11:50:46 AM GMT+5:30,Ravinderpal Wasu,tere naam,1
+2017/08/20 11:52:08 AM GMT+5:30,Ravinderpal Wasu,sholay,5
+2017/08/20 12:04:42 PM GMT+5:30,Ranjan,Ki and Ka,2
+2017/08/20 12:05:29 PM GMT+5:30,Ranjan,Barfi!,2
+2017/08/20 12:06:17 AM GMT+5:30,Nabhgesh,Bhaag Milkha Bhaag,5
+2017/08/20 12:11:05 AM GMT+5:30,Nabhgesh,Dangal,4
+2017/08/20 12:12:48 AM GMT+5:30,Nabhgesh,Drishyam,4
+2017/08/20 12:17:12 AM GMT+5:30,Yuvraj,Dangal,4
+2017/08/20 12:18:16 AM GMT+5:30,Yuvraj,Baahubali: The Beginning,5
+2017/08/20 12:19:17 AM GMT+5:30,Yuvraj,Hindi Medium,4
+2017/08/20 12:20:19 AM GMT+5:30,Nabhgesh,Baahubali: The Beginning,5
+2017/08/20 12:20:55 AM GMT+5:30,Nabhgesh,Hindi Medium,4
+2017/08/20 12:21:41 AM GMT+5:30,Yuvraj,M.S. Dhoni: The Untold Story,4
+2017/08/20 12:22:20 AM GMT+5:30,Yuvraj,Rustom,4
+2017/08/20 7:14:59 AM GMT+5:30,RaviSatyendraKumar,The Sixth Sense,5
+2017/08/20 7:15:56 AM GMT+5:30,RaviSatyendraKumar,Moneyball,5
+2017/08/20 7:16:16 AM GMT+5:30,RaviSatyendraKumar,WHO AM I,4
+2017/08/20 7:16:55 AM GMT+5:30,RaviSatyendraKumar,The Shawshank Redemption,4
+2017/08/20 7:17:22 AM GMT+5:30,RaviSatyendraKumar,The Conjuring,4
+2017/08/20 7:17:44 AM GMT+5:30,RaviSatyendraKumar,Titanic,3
+2017/08/20 7:47:13 AM GMT+5:30,Srinivasa,Swades,4
+2017/08/20 7:47:34 AM GMT+5:30,Srinivasa,The accountant,4
+2017/08/20 7:48:02 AM GMT+5:30,Srinivas Bandaru,Baahubali 2: The Conclusion,4
+2017/08/20 7:48:25 AM GMT+5:30,Srinivas Bandaru,Dangal,4
+2017/08/20 7:48:36 AM GMT+5:30,Srinivasa,Shooter,4
+2017/08/20 7:49:52 AM GMT+5:30,Srinivas Bandaru,Ninnu Kori,3
+2017/08/20 7:50:06 AM GMT+5:30,Srinivasa,Fight Club,4
+2017/08/20 7:51:00 AM GMT+5:30,Srinivas Bandaru,Duvvada Jagannadham,3
+2017/08/20 7:51:43 AM GMT+5:30,Srinivas Bandaru,Tubelight,1
+2017/08/20 7:52:26 AM GMT+5:30,Srinivas Bandaru,Jab Harry met Sejal,2
+2017/08/20 7:56:32 AM GMT+5:30,Saket,300,5
+2017/08/20 7:57:05 AM GMT+5:30,Saket,Baahubali: The Beginning,4
+2017/08/20 7:57:52 AM GMT+5:30,Saket,300: Rise of an Empire,3
+2017/08/20 7:58:59 AM GMT+5:30,sanket,M.S. Dhoni: The Untold Story,5
+2017/08/20 7:59:05 AM GMT+5:30,Saket,Troy,2
+2017/08/20 7:59:53 AM GMT+5:30,Saket,World War Z ,4
+2017/08/20 7:59:59 AM GMT+5:30,Sanket,Rustom,5
+2017/08/20 8:00:35 AM GMT+5:30,Saket,The Hunger Games,3
+2017/08/20 8:00:49 AM GMT+5:30,Sanket,Neerja,5
+2017/08/20 8:01:23 AM GMT+5:30,Sanket,Airlift,5
+2017/08/20 8:02:10 AM GMT+5:30,Sanket,Saala Khadoos,5
+2017/08/20 8:06:45 AM GMT+5:30,Sarita,Mulholland Drive,4
+2017/08/20 8:07:11 AM GMT+5:30,Sarita,Her,5
+2017/08/20 8:08:49 AM GMT+5:30,Sarita ,Fight Club,5
+2017/08/20 8:10:02 AM GMT+5:30,Sarita,Mr. and Mrs. Iyer,4
+2017/08/20 8:11:05 AM GMT+5:30,Sarita,Swades (2004),4
+2017/08/20 8:23:52 AM GMT+5:30,Karuna,My Cousin Vinny,5
+2017/08/20 8:24:15 AM GMT+5:30,Karuna,12 Angry Men,5
+2017/08/20 8:25:25 AM GMT+5:30,Indira,Baahubali: The Beginning,5
+2017/08/20 8:26:02 AM GMT+5:30,Karuna,Gone Girl,4
+2017/08/20 8:30:05 AM GMT+5:30,Siddharth,The Dark Knight,5
+2017/08/20 8:36:39 AM GMT+5:30,Neha,Hindi Medium,5
+2017/08/20 8:43:02 AM GMT+5:30,Gopi ikrishna,Dangal,5
+2017/08/20 8:44:56 AM GMT+5:30,gopi krishna,the shawshank redemption,4
+2017/08/20 8:47:17 AM GMT+5:30,Neha,Intersteller,5
+2017/08/20 8:47:35 AM GMT+5:30,gopi krishna,The Dark Knight,2
+2017/08/20 8:48:16 AM GMT+5:30,Neha,Toilet - Ek Prem Katha,3
+2017/08/20 8:48:51 AM GMT+5:30,gopi krishna,Premam,3
+2017/08/20 8:49:42 AM GMT+5:30,Neha,Spider-Man: Homecoming,5
+2017/08/20 8:51:52 AM GMT+5:30,gopi krishna,annabelle:creation,1
+2017/08/20 8:52:55 AM GMT+5:30,AVIK DAS,Independence Day: Resurgence,5
+2017/08/20 8:59:59 AM GMT+5:30,Shailesh,Dunkirk,4
+2017/08/20 9:00:51 AM GMT+5:30,Yogesh,Seven Psychopaths,5
+2017/08/20 9:00:52 AM GMT+5:30,Shailesh,Valerian and the City of a Thousand Planets,3
+2017/08/20 9:01:20 AM GMT+5:30,Yogesh,Baahubali 2: The Conclusion,3
+2017/08/20 9:01:45 AM GMT+5:30,Ashis,Dunkirk,3
+2017/08/20 9:02:03 AM GMT+5:30,Shailesh,Jab Harry met Sejal,2
+2017/08/20 9:02:17 AM GMT+5:30,Yogesh,Udta Punjab,5
+2017/08/20 9:02:57 AM GMT+5:30,Ashis,Zodiac,5
+2017/08/20 9:02:58 AM GMT+5:30,Yogesh,Rockstar,5
+2017/08/20 9:03:39 AM GMT+5:30,Shailesh,Baahubali 2: The Conclusion,5
+2017/08/20 9:04:00 AM GMT+5:30,Yogesh,Liebesbrief an das Leben - Dear Zindagi,4
+2017/08/20 9:05:03 AM GMT+5:30,Ashis,"The Good, the Bad and the Ugly",4
+2017/08/20 9:07:40 AM GMT+5:30,Ashis,Dangal,4
+2017/08/20 9:08:21 AM GMT+5:30,Shailesh,The Super Khiladi (Brindavanam),4
+2017/08/20 9:08:45 AM GMT+5:30,Ashis,Jab Harry met Sejal,1
+2017/08/20 9:09:03 AM GMT+5:30,Shailesh,Jeene nahi doonga,3
+2017/08/20 9:11:57 AM GMT+5:30,Tara R A,Tangled,5
+2017/08/20 9:12:38 AM GMT+5:30,Tara R A,The Avengers,5
+2017/08/20 9:13:06 AM GMT+5:30,Tara R A,3 Idiots,5
+2017/08/20 9:13:42 AM GMT+5:30,Tara R A,OK Jaanu,4
+2017/08/20 9:14:15 AM GMT+5:30,Tara R A,Troy,5
+2017/08/20 9:15:37 AM GMT+5:30,Tara R A,OMG: Oh My God!,5
+2017/08/20 9:17:08 AM GMT+5:30,Tara R A,Dear Zindagi,3
+2017/08/20 9:27:28 AM GMT+5:30,Alok Yadav,Bhaag Milkha Bhaag,5
+2017/08/20 9:28:01 AM GMT+5:30,Alok Yadav,3 Idiots,4
+2017/08/20 9:28:31 AM GMT+5:30,Alok Yadav,Baahubali 2: The Conclusion,3
+2017/08/20 9:30:22 AM GMT+5:30,Alok Yadav,The Jungle Book,4
+2017/08/20 9:30:48 AM GMT+5:30,Alok Yadav,Raees,2
+2017/08/20 9:49:28 AM GMT+5:30,Raghava,Madagascar: Escape 2 Africa,5
+2017/08/20 9:50:31 AM GMT+5:30,Raghava,Despicable Me,5
+2017/08/20 9:51:11 AM GMT+5:30,Raghava,The Martian,5
+2017/08/20 9:51:54 AM GMT+5:30,Raghava,Passengers,5
+2017/08/20 9:53:20 AM GMT+5:30,Raghava,#Pellichoopulu,5
+2017/08/20 9:53:44 AM GMT+5:30,Raghava,Baahubali: The Beginning,5
+2017/08/20 9:56:03 AM GMT+5:30,Raghava,Baahubali 2: The Conclusion,5
